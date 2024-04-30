@@ -11,5 +11,5 @@ client.on("ready", async () => {
   }, 1000 * 5)
 
 });
-client.login("OTI5NzQyNzYzMDM2MTIzMTM4.Gc43S0.XoOuPF5MKjsEy66yyTaExe7m0ij3AgNT_kIKwI");
+client.login("Add Your Bot Token Here");
 console.log("Posted Server Count to Top.gg")
